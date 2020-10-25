@@ -31,3 +31,16 @@ Two ways to run app
 - right click on server and Run server 
 - in browser - localhost/8080/CaptureScreen
  
+
+Make API call
+
+1. To test application is working
+- http://localhost:8080/testService
+
+output:
+data : "application working fine" 
+
+2. To test screen shot API
+- http://localhost:8080/getScreenShot?data=https://en.wikipedia.org/wiki/Java_(programming_language)
+
+output: image
