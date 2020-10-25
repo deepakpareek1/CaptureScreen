@@ -44,3 +44,4 @@ data : "application working fine"
 - http://localhost:8080/getScreenShot?data=https://en.wikipedia.org/wiki/Java_(programming_language)
 
 output: image
+![Screenshot](https://github.com/deepakpareek1/CaptureScreen/blob/main/Capture.PNG)
